@@ -1,5 +1,4 @@
-# ServerCaptcha
-ServerCaptcha is a Discord bot that allows users to add a captcha system to their Discord servers using the bot.
+# Discord.js v14 Captcha Bot
 
 # Setup
 ## First clone the repository.
