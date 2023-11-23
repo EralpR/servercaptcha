@@ -1,0 +1,32 @@
+{
+  "name": "servercaptcha-by-eralpr",
+  "version": "1.0.0",
+  "description": "https://github.com/EralpR",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EralpR/servercaptcha.git"
+  },
+  "keywords": [
+    "verification",
+    "captcha"
+  ],
+  "author": "EralpR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EralpR/servercaptcha/issues"
+  },
+  "homepage": "https://github.com/EralpR/servercaptcha#readme",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "captcha-canvas": "^3.2.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "mongoose": "^8.0.1",
+    "node-fetch": "^2.7.0",
+    "topgg-autoposter": "^2.0.1"
+  }
+}
