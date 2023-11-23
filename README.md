@@ -1,7 +1,7 @@
 # Discord.js v14 Captcha Bot
 An Advanced Discord.js v14 Captcha-Verification Bot
 # Setup
-## First clone the repository.
+## Clone the repository.
 ```
 git clone https://github.com/EralpR/servercaptcha
 ```
