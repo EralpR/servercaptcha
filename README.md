@@ -1,5 +1,5 @@
 # Discord.js v14 Captcha Bot
-
+An Advanced Discord.js v14 Captcha-Verification Bot
 # Setup
 ## First clone the repository.
 ```
